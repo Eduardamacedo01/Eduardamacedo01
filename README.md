@@ -10,7 +10,7 @@
 
 - 🎓 Estudante de **Engenharia de Software** (3º semestre)
 - 👩‍💻 Foco em desenvolvimento **Back-End**
-- 🐍 Estudando atualmente: `Python` e `C`
+- 🐍 Estudando atualmente: `Java` e `C`
 - 🌱 Interessada em aprender: `PHP`, `banco de dados`, `servidores`, `boas práticas`
 - 🤝 Tenho facilidade em **trabalhar em equipe**
 - 🚀 Curiosa e motivada para aprender mais sobre o mundo da tecnologia
@@ -21,9 +21,7 @@
 ### 🛠️ Tecnologias & Ferramentas
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="c" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php" width="40" height="40"/>
 </p>
 
 ---
