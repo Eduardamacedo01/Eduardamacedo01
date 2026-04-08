@@ -8,7 +8,7 @@
 
 ### 🧠 Sobre mim
 
-- 🎓 Estudante de **Engenharia de Software** (1º semestre)
+- 🎓 Estudante de **Engenharia de Software** (3º semestre)
 - 👩‍💻 Foco em desenvolvimento **Back-End**
 - 🐍 Estudando atualmente: `Python` e `C`
 - 🌱 Interessada em aprender: `PHP`, `banco de dados`, `servidores`, `boas práticas`
